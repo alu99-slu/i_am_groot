@@ -16,6 +16,7 @@ int main(){
         while(!q.empty()){
             char s = q.front();
             cout<<s<<" ";
+            
             q.pop();
         }
         
