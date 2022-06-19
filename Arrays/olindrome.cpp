@@ -12,7 +12,6 @@ int main(){
 
         queue<int> q;
         
-        
 
         while(!q.empty()){
             char s = q.front();
